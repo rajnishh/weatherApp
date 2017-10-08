@@ -18,6 +18,7 @@
   "homepage": "https://github.com/rajnishh/weatherApp#readme",
   "dependencies": {
     "request": "^2.83.0",
+    "temp-units-conv": "^0.1.2",
     "yargs": "^9.0.1"
   }
 }
