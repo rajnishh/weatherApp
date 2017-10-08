@@ -1,0 +1,23 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "\"Weather app to search current weather fo provided geo location\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajnishh/weatherApp.git"
+  },
+  "author": "Rajnish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajnishh/weatherApp/issues"
+  },
+  "homepage": "https://github.com/rajnishh/weatherApp#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "yargs": "^9.0.1"
+  }
+}
